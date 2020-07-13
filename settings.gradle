@@ -1,0 +1,5 @@
+rootProject.name = 'originalSpringboot'
+include 'framework'
+include 'test'
+include '222'
+
